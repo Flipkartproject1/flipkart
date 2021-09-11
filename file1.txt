@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 hi wasim this is first file from my side
 keep learning wasim
-=======
 this is our first changes..lets keep learning
 
->>>>>>> 43c50e09f3fed371188e80e5b978e4b04d8442f3
